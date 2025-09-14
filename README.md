@@ -2,9 +2,7 @@
 
 # 🏥⚡ Mohammed SHOAIB U ⚡🏥
 
-## 🚀 **ELECTRONICS & COMMUNICATION ENGINEER** → **HEALTHCARE SYSTEMS ARCHITECT** → **FUTURE ENTERPRISE CTO**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+Next-Gen+Healthcare+Cloud+Architecture;Oracle+Cloud+%7C+C%2FC%2B%2B+%7C+Healthcare+Systems+Expert;4%2B+Years+Scaling+Patient+Care+Through+Code;Enterprise+Architect+by+2030+%7C+CTO+Vision+2035;HIPAA-Compliant+%7C+Performance-First+%7C+Lives-Saving+Tech" alt="Typing SVG" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+Next-Gen+Healthcare+Cloud+Architecture;Oracle+Cloud+%7C+C%2FC%2B%2B+%7C+Healthcare+Systems+Expert;4%2B+Years+Scaling+Patient+Care+Through+Code;Enterprise+Architect+by+2030+%7C+CTO+Vision+2035;HIPAA-Compliant+%7C+Performance-First+%7C+Lives-Saving+Tech" alt="Typing SVG" />
 
 ---
 
