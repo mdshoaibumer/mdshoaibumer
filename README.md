@@ -90,7 +90,7 @@ I'm building toward **Senior Backend Engineer → Staff Engineer** roles focused
 
 - Oracle Cloud Infrastructure Foundations Associate
 - Oracle Cloud Infrastructure 2025 AI Foundations Associate
-- *In progress:* Linux Foundation Certified System Administrator (LFCS)
+- Linux Foundation Certified System Administrator (LFCS)
 
 ---
 
