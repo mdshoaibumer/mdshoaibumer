@@ -24,7 +24,7 @@ I'm deepening my expertise in **Go**, **distributed systems**, **Kubernetes**, a
 
 ### What I'm Working On
 
-- **[GymFlow Track](https://github.com/mdshoaibumer/gym-management-system)** — Multi-tenant SaaS platform. FastAPI + Next.js + PostgreSQL. Clean architecture, RBAC, Razorpay billing, Docker deployment, CI/CD.
+- **[GymFlow Track](https://github.com/mdshoaibumer/gymflow-track)** — Multi-tenant SaaS platform. FastAPI + Next.js + PostgreSQL. Clean architecture, RBAC, Razorpay billing, Docker deployment, CI/CD.
 - **[VaultMed](https://github.com/mdshoaibumer/VaultMed)** — High-performance C++ engine for healthcare data anonymization. SIMD-accelerated parsing, k-anonymity, l-diversity, differential privacy. Processes 1M+ records/sec.
 - **Go backend systems** — Building idiomatic Go services: HTTP servers, CLI tools, concurrency patterns, and systems utilities.
 
